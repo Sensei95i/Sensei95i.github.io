@@ -1,12 +1,12 @@
 [![MasterHead](https://www.icegif.com/wp-content/uploads/icegif-801.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sensei</h1>
-<h3 align="center">I am a good learner!!</h3>
+<h3 align="center">I am a good code learner!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sensei95i&label=Profile%20views&color=0e75b6&style=flat" alt="sensei95i" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sensei95i" alt="sensei95i" /></a> </p>
 
-- 🔭 I’m currently working on **Discord bot, fixing windows ets**
+- 🔭 I’m currently working on **Discord bot, Website**
 
 - 👯 I’m looking to collaborate on [Bero host](https://bero-host.de/)
 
